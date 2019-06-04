@@ -1,28 +1,7 @@
 <?php
 
-if (isset($_POST["name"])) {
 
-  $name = $_POST["name"];
-  $phone = $_POST["phone"];
-  $email = $_POST["email"];
 
-  if ($name == "") {
-    $name = "*";
-  }
-  if ($phone == "") {
-    $phone = "*";
-  }
-
-  $file = fopen("CampContactList.txt", "a");
-  fwrite($file,
-  "Customer {
-    Name: " . $name . "
-    Phone: " . $phone . "
-    Email: " . $email .
-    "\n}\n\n");
-  fclose($file);
-
-}
 ?>
 
 <html>
@@ -73,7 +52,6 @@ if (isset($_POST["name"])) {
         <li class="forDesktop"><img src="images/Sponsors/Sponsor_SnapOn.png"></li>
         <li class="forDesktop"><img src="images/Sponsors/Sponsor_SolidWorks.png"></li>
         <li class="forDesktop"><img src="images/Sponsors/Sponsor_WebCentral.png"></li>
-        
         <li class="forMobile"><img src="images/Sponsors/Sponsor_ChildhoodCenter.png"></li>
         <li class="forMobile"><img src="images/Sponsors/Sponsor_FIRST.png"></li>
         <li class="forMobile"><img src="images/Sponsors/Sponsor_GitHub.png"></li>
@@ -86,13 +64,22 @@ if (isset($_POST["name"])) {
     </div>
 
     <div class="w3-content">
-      <p style="text-align: center;">We are still finalizing some of the details for our summer camp this year. Please subscribe to our information email list, and we will notify you once all of the bugs are worked out.</p>
-      <form action="camp.php" method="post">
-        <p><input name="name" placeholder="Name" class="w3-input w3-padding-16" type="text"></p>
-        <p><input name="phone" placeholder="Phone Number" class="w3-input w3-padding-16" type="tel"></p>
-        <p><input name="email" placeholder="Email Address" class="w3-input w3-padding-16" type="email" required></p>
-        <button class="w3-button w3-light-grey w3-padding-large" id="loginButton" type="submit"><i class="fa fa-envelope" style="padding-right: 10px;"></i> SIGN UP</button>
-      </form>
+      <div class="w3-margin-bottom">
+        <ul class="w3-ul w3-white w3-center w3-opacity w3-hover-opacity-off">
+          <li class="w3-dark-grey w3-xlarge w3-padding-32">Our Summer Camp Package</li>
+          <li class="w3-padding-16"></li>
+          <li class="w3-padding-16">_</li>
+          <li class="w3-padding-16">_</li>
+          <li class="w3-padding-16">_</li>
+          <li class="w3-padding-16">
+            <h2>$ 100</h2>
+            <span class="w3-opacity">Sponsored Amount</span>
+          </li>
+          <li class="w3-light-grey w3-padding-24">
+            <button class="w3-button w3-white w3-padding-large w3-hover-black">Choose Tier</button>
+          </li>
+        </ul>
+      </div>
     </div>
 
     <!-- END PAGE CONTENT -->

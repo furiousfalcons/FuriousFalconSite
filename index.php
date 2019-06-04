@@ -75,6 +75,7 @@ session_destroy();
         <li class="forDesktop"><img src="images/Sponsors/Sponsor_SnapOn.png"></li>
         <li class="forDesktop"><img src="images/Sponsors/Sponsor_SolidWorks.png"></li>
         <li class="forDesktop"><img src="images/Sponsors/Sponsor_WebCentral.png"></li>
+
         <li class="forMobile"><img src="images/Sponsors/Sponsor_ChildhoodCenter.png"></li>
         <li class="forMobile"><img src="images/Sponsors/Sponsor_FIRST.png"></li>
         <li class="forMobile"><img src="images/Sponsors/Sponsor_GitHub.png"></li>
@@ -88,7 +89,7 @@ session_destroy();
       </div>
       <a href="/camp.php" style="text-decoration: none;">
         <div style="margin-right: 30px;">
-          <p class="w3-padding-16" style="padding-right: 35px; padding-left: 10px;">Looking for our Summer Camp? Click here and we'll get you squared away!</p>
+          <p class="w3-padding-16" style="padding-right: 35px; padding-left: 10px; font-weight: bold; font-size: 16px; text-align: center;">Looking for our Summer Camp? Click here to get more information!</p>
         </a>
       </div>
     </div>
@@ -112,7 +113,7 @@ session_destroy();
         <p>Members of our mechanical team are taught to comprehend and utilize the basic principles of physics, mathematics, and problem-solving skills in the construction of our robot each year. This team is responsible for the primary assembly, maintenance and overall functionality of the robot. Most of the time, these members are continuously researching, redesigning and implementing potential solutions to overcome the current task at hand. This is all in hopes to innovate the overall building experience.</p>
         <h5 class="w3-wide" style="font-weight: bold;">Electrical Engineering</h5>
         <hr style="width:200px" class="w3-opacity">
-        <p>The electrical team holds a crucial role in our team and on our robot. In-depth knowledge of the RoboRIO and other electrical components is used. This team holds the responsibility of wiring the robot and all its components. While it is the only task for this team, it requires a fair amount of organization to keep the cables out of the way of the moving parts of the robot. Much like the other departments of robotics, the members of the electrical team are taught the skills necessary to be successful both in the club and in their future, wherever it may take them.</p>
+        <p> The electrical team holds a crucial role in our team and on our robot. In-depth knowledge of the RoboRIO and other electrical components is used. This team holds the responsibility of wiring the robot and all its components. While this is the only task for the electrical group, it requires a fair amount of organization to keep cables and wires out of the way of the moving parts of the robot. Much like the other departments of robotics, the members of the electrical team are taught the skills necessary to be successful both in their department and in their future, wherever it may take them.</p>
         <h5 class="w3-wide" style="font-weight: bold;">Computer Science</h5>
         <hr style="width:200px" class="w3-opacity">
         <p>Our organization is dependent on our programming team. These individuals are tasked with learning the Java programming language, implementing the language in the Visual Studio Code IDE and exporting it to a RoboRIO controller, as well as familiarizing themselves with the basics of GRIP Vision and Image Recognition. As complex as these tasks may appear, our adept student-based teaching program allows new members, that might be oblivious to these components, to ease into the programming realm.  Students are able to learn the fundamentals of the technological aspect of robotics efficiently, effectively, and without the worry of falling behind their fellow members.</p>
