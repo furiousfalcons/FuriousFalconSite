@@ -89,9 +89,9 @@ session_destroy();
       </div>
       <a href="/camp.php" style="text-decoration: none;">
         <div style="margin-right: 30px;">
-          <p class="w3-padding-16" style="padding-right: 35px; padding-left: 10px; font-weight: bold; font-size: 16px; text-align: center;">Looking for our Summer Camp? Click here to get more information!</p>
-        </a>
-      </div>
+          <h3 class="w3-padding-16">Looking for our Summer Camp? Click here for more information!</h3>
+        </div>
+      </a>
     </div>
     <!-- Header/Home -->
     <section class="scrollSection" id="homeSetion" data-anchor="homeSection">
@@ -267,6 +267,10 @@ session_destroy();
         </div>
       </div>
 
+      <div class="w3-content" style="height: 100%; padding-bottom: 50px; overflow: hidden;">
+        <h2 class="w3-text-light-grey w3-padding-64">El Paso District Competition Reflection</h2>
+        <iframe width="100%" height="100%" src="https://www.youtube.com/embed/gHf8nbcu9FY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+      </div>
     </div>
 
     <!-- Contact Section -->
@@ -308,11 +312,12 @@ session_destroy();
 
     <a style="padding: 5px;" href="https://www.reddit.com/r/FuriousFalcons"><i class="fa fa-reddit w3-hover-opacity"></i></a>
     <a style="padding: 5px;" href="https://fb.me/furiousfalcons4328"><i class="fa fa-facebook-official w3-hover-opacity"></i></a>
+    <a style="padding: 5px;" href="https://www.youtube.com/channel/UCKGAG7kHLdjRE5BgjCmybWg"><i class="fa fa-youtube w3-hover-opacity"></i></a>
     <a style="padding: 5px;" href="https://www.instagram.com/foster_robotics/"<i class="fa fa-instagram w3-hover-opacity"></i></a>
     <a style="padding: 5px;" href="https://www.snapchat.com/add/fosterrobotics"><i class="fa fa-snapchat w3-hover-opacity"></i></a>
-    <a style="padding: 5px;" href="https://www.pinterest.com/fosterrobotics/"><i class="fa fa-pinterest-p w3-hover-opacity"></i></a>
+    <!--<a style="padding: 5px;" href="https://www.pinterest.com/fosterrobotics/"><i class="fa fa-pinterest-p w3-hover-opacity"></i></a>-->
     <a style="padding: 5px;" href="https://twitter.com/FosterRobotics"><i class="fa fa-twitter w3-hover-opacity"></i></a>
-    <a style="padding: 5px;" href="https://www.linkedin.com/in/furious-falcons-936303187/"><i class="fa fa-linkedin w3-hover-opacity"></i></a>
+    <!--<a style="padding: 5px;" href="https://www.linkedin.com/in/furious-falcons-936303187/"><i class="fa fa-linkedin w3-hover-opacity"></i></a>-->
 
     <!-- End footer -->
   </footer>
