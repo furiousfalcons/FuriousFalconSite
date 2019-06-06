@@ -141,12 +141,8 @@ nav a.active {
   color: white;
 }
 
-#MessageBanner a div h3 {
-  text-align: center;
-  padding-right: 0px;
-  padding-left: 10px;
-  font-weight: bold;
-  text-align: center;
+#MessageBanner div p {
+  text-align: justify;
 }
 
 #BannerCloseButton {
@@ -156,11 +152,12 @@ nav a.active {
   margin-right: 10px;
 }
 
-#BannerCloseButton:hover {
-  cursor: pointer;
-}
-
 @media screen and (max-width: 600px) {
+
+  #MessageBanner div p {
+    text-align: center;
+  }
+
   .halfAndCenter {
     width: 90%;
   }
