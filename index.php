@@ -330,6 +330,8 @@ if (window.location.search == "?contactSuccess") {
   $('#contactForm').css('display', 'none');
   $('#contactSuccessText').css('display', 'block');
   goToContactForm();
+} else if (window.location.search == "?contact") {
+  goToContactForm();
 }
 
 function goToContactForm() {
