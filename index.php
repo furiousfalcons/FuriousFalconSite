@@ -96,7 +96,7 @@ session_destroy();
     <section class="scrollSection" id="homeSetion" data-anchor="homeSection">
       <header class="w3-container w3-padding-32 w3-center w3-black" id="home">
         <img src="/images/FalconsLogo.png" alt="boy" class="w3-image" width="800">
-        <h2><b>Foster High School Robotics</b></h2>
+        <h2><b>Foster High School Robotics (TEST)</b></h2>
         <h2><b>FRC Team #4328</b></h2>
       </header>
     </section>
