@@ -54,7 +54,6 @@ session_destroy();
       <a href="/dashboard/index.php" class="w3-bar-item w3-button navlink" style="width:20% !important"><i class="fa fa-lock w3-xlarge"></i><br />LOGIN</a>
     </div>
   </div>
-
   <!-- Page Content -->
   <div class="w3-padding-large" id="wrapper">
     <!-- Login Button -->
@@ -66,18 +65,22 @@ session_destroy();
     <!-- Sponsors -->
     <div id="Sponsors">
       <ul>
-        <li class="forDesktop"><img src="images/Sponsors/Sponsor_ChildhoodCenter.png"></li>
+<!--        <li class="forDesktop"><img src="images/Sponsors/Sponsor_ChildhoodCenter.png"></li> -->
+        <li class="forDesktop"><img src="images/Sponsors/Flowserv_logo.png"></li>
         <li class="forDesktop"><img src="images/Sponsors/Sponsor_FIRST.png"></li>
-        <li class="forDesktop"><img src="images/Sponsors/Sponsor_GitHub.png"></li>
+        <li class="forDesktop"><img src="images/Sponsors/twc_logo.png"></li>
+      <li class="forDesktop"><img src="images/Sponsors/Sponsor_GitHub.png"></li>
         <li class="forDesktop"><img src="images/Sponsors/Sponsor_Gtech.png"></li>
         <li class="forDesktop"><img src="images/Sponsors/Sponsor_Hampco.png"></li>
-        <li class="forDesktop"><img src="images/Sponsors/Sponsor_SnapOn.png"></li>
+<!--        <li class="forDesktop"><img src="images/Sponsors/Sponsor_SnapOn.png"></li> -->
         <li class="forDesktop"><img src="images/Sponsors/Sponsor_SolidWorks.png"></li>
         <li class="forDesktop"><img src="images/Sponsors/Sponsor_WebCentral.png"></li>
 
-        <li class="forMobile"><img src="images/Sponsors/Sponsor_ChildhoodCenter.png"></li>
+ <!--       <li class="forMobile"><img src="images/Sponsors/Sponsor_ChildhoodCenter.png"></li> -->
+        <li class="forDesktop"><img src="images/Sponsors/Flowserv_logo.png"></li>
         <li class="forMobile"><img src="images/Sponsors/Sponsor_FIRST.png"></li>
-        <li class="forMobile"><img src="images/Sponsors/Sponsor_GitHub.png"></li>
+         <li class="forDesktop"><img src="images/Sponsors/twc_logo.png"></li>
+ <!--      <li class="forMobile"><img src="images/Sponsors/Sponsor_GitHub.png"></li> -->
         <li class="forMobile"><img src="images/Sponsors/Sponsor_Gtech.png"></li>
       </ul>
     </div>
@@ -87,7 +90,9 @@ session_destroy();
         <i class="fa fa-window-close"></i>
       </div>
       <a href="/camp.php" style="text-decoration: none;">
-        <div style="margin-right: 30px;">
+     
+       
+       <div style="margin-right: 30px;">
           <h3 class="w3-padding-16">Looking for our Summer Camp? Click here for more information!</h3>
         </div>
       </a>
