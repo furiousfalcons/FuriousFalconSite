@@ -52,8 +52,9 @@ session_destroy();
       <a href="#" data-scroll="photosSection" class="w3-bar-item w3-button navlink" style="width:20% !important"><i class="far fa-images w3-xlarge"></i></i><br />PHOTOS</a>
       <a href="#" data-scroll="contactSection" class="w3-bar-item w3-button navlink" style="width:20% !important"><i class="fa fa-envelope w3-xlarge"></i><br />CONTACT</a>
       <a href="/dashboard/index.php" class="w3-bar-item w3-button navlink" style="width:20% !important"><i class="fa fa-lock w3-xlarge"></i><br />LOGIN</a>
-    </d
-  <!-- Page Content --T
+    </div>
+  </div>
+  <!-- Page Content -->
   <div class="w3-padding-large" id="wrapper">
     <!-- Login Button -->
     <a href="/dashboard/index.php">
