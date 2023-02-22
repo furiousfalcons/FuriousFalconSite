@@ -65,23 +65,27 @@ session_destroy();
     <!-- Sponsors -->
     <div id="Sponsors">
       <ul>
-<!--        <li class="forDesktop"><img src="images/Sponsors/Sponsor_ChildhoodCenter.png"></li> -->
         <li class="forDesktop"><img src="images/Sponsors/Flowserv_logo.png"></li>
-        <li class="forDesktop"><img src="images/Sponsors/Sponsor_FIRST.png"></li>
+        <li class="forDesktop"><img src="images/Sponsors/genehass_logo.png"></li>
+        <li class="forDesktop"><img src="images/Sponsors/STI-Manufacturing-Logo.png"></li>
         <li class="forDesktop"><img src="images/Sponsors/twc_logo.png"></li>
-      <li class="forDesktop"><img src="images/Sponsors/Sponsor_GitHub.png"></li>
+        <li class="forDesktop"><img src="images/Sponsors/PCT_logo.png"></li>
         <li class="forDesktop"><img src="images/Sponsors/Sponsor_Gtech.png"></li>
-        <li class="forDesktop"><img src="images/Sponsors/Sponsor_Hampco.png"></li>
+<!--        <li class="forDesktop"><img src="images/Sponsors/Sponsor_ChildhoodCenter.png"></li> -->
+<!--        <li class="forDesktop"><img src="images/Sponsors/Sponsor_GitHub.png"></li> -->
+<!--        <li class="forDesktop"><img src="images/Sponsors/Sponsor_Hampco.png"></li> -->
 <!--        <li class="forDesktop"><img src="images/Sponsors/Sponsor_SnapOn.png"></li> -->
-        <li class="forDesktop"><img src="images/Sponsors/Sponsor_SolidWorks.png"></li>
-        <li class="forDesktop"><img src="images/Sponsors/Sponsor_WebCentral.png"></li>
+<!--        <li class="forDesktop"><img src="images/Sponsors/Sponsor_SolidWorks.png"></li> -->
+<!--        <li class="forDesktop"><img src="images/Sponsors/Sponsor_WebCentral.png"></li> -->
 
- <!--       <li class="forMobile"><img src="images/Sponsors/Sponsor_ChildhoodCenter.png"></li> -->
-        <li class="forDesktop"><img src="images/Sponsors/Flowserv_logo.png"></li>
-        <li class="forMobile"><img src="images/Sponsors/Sponsor_FIRST.png"></li>
-         <li class="forDesktop"><img src="images/Sponsors/twc_logo.png"></li>
- <!--      <li class="forMobile"><img src="images/Sponsors/Sponsor_GitHub.png"></li> -->
+        <li class="forMobile"><img src="images/Sponsors/Flowserv_logo.png"></li>
+        <li class="forMobile"><img src="images/Sponsors/genehass_logo.png"></li>
+        <li class="forMobile"><img src="images/Sponsors/STI-Manufacturing-Logo.png"></li>
+        <li class="forMobile"><img src="images/Sponsors/twc_logo.png"></li>
+        <li class="forMobile"><img src="images/Sponsors/PCT_logo.png"></li>
         <li class="forMobile"><img src="images/Sponsors/Sponsor_Gtech.png"></li>
+<!--       <li class="forMobile"><img src="images/Sponsors/Sponsor_GitHub.png"></li> -->
+<!--       <li class="forMobile"><img src="images/Sponsors/Sponsor_ChildhoodCenter.png"></li> -->
       </ul>
     </div>
 
