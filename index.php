@@ -66,7 +66,7 @@ session_destroy();
     <div id="Sponsors">
       <ul>
         <li class="forDesktop"><img src="images/Sponsors/Flowserv_logo.png"></li>
-        <li class="forDesktop"><img src="images/Sponsors/genehass_logo.png"></li>
+        <li class="forDesktop"><img src="images/Sponsors/genehaas_logo.png"></li>
         <li class="forDesktop"><img src="images/Sponsors/STI-Manufacturing-Logo.png"></li>
         <li class="forDesktop"><img src="images/Sponsors/twc_logo.png"></li>
         <li class="forDesktop"><img src="images/Sponsors/PCT_logo.png"></li>
@@ -79,7 +79,7 @@ session_destroy();
 <!--        <li class="forDesktop"><img src="images/Sponsors/Sponsor_WebCentral.png"></li> -->
 
         <li class="forMobile"><img src="images/Sponsors/Flowserv_logo.png"></li>
-        <li class="forMobile"><img src="images/Sponsors/genehass_logo.png"></li>
+        <li class="forMobile"><img src="images/Sponsors/genehaas_logo.png"></li>
         <li class="forMobile"><img src="images/Sponsors/STI-Manufacturing-Logo.png"></li>
         <li class="forMobile"><img src="images/Sponsors/twc_logo.png"></li>
         <li class="forMobile"><img src="images/Sponsors/PCT_logo.png"></li>
